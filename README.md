@@ -43,4 +43,4 @@ Looking for larger volumes (10k–100k+ synthetic documents), multilingual suppo
 - **Custom Datasets & Contact:** `lumen.models.support@gmail.com`
 
 
-- 
+  
